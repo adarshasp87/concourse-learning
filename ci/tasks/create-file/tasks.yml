@@ -8,4 +8,5 @@ params:
   name:
   contactno:
 run:
-  path: app-source/ci/tasks/create-file/tasks.sh
+  dir: app-source
+  path: ../app-source/ci/tasks/c/tasks.sh
