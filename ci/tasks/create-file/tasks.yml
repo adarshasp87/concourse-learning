@@ -9,4 +9,4 @@ params:
   contactno:
 run:
   dir: app-source
-  path: ../app-source/ci/tasks/c/tasks.sh
+  path: ../app-source/ci/tasks/tasks.sh
